@@ -10,7 +10,7 @@
 ###################
 
 # TODO Change to g++ for C++ only
-CXX = gcc
+CXX = g++
 # TODO For C++ only.
 # CXXFLAGS = -Wconversion -Wall -Werror -Wextra -pedantic 
 
@@ -18,9 +18,8 @@ all: iPerfer
 
 # TODO Modify source file name for your project.
 # For C only.
-SOURCES = iPerfer.c
 # For C++ only.
-# SOURCES = iPerfer.cpp
+SOURCES = iPerfer.cpp
 iPerfer: $(SOURCES)
 	$(CXX) $(CXXFLAGS) $(SOURCES) -o iPerfer
 
