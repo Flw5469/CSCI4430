@@ -1,0 +1,25 @@
+PING www.gov.hk (103.198.200.203) 56(84) bytes of data.
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=1 ttl=255 time=6.94 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=2 ttl=255 time=7.21 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=3 ttl=255 time=6.07 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=4 ttl=255 time=7.59 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=5 ttl=255 time=6.83 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=6 ttl=255 time=6.76 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=7 ttl=255 time=6.38 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=8 ttl=255 time=10.8 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=9 ttl=255 time=10.9 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=10 ttl=255 time=7.94 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=11 ttl=255 time=9.62 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=12 ttl=255 time=6.99 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=13 ttl=255 time=7.11 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=14 ttl=255 time=8.99 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=15 ttl=255 time=6.87 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=16 ttl=255 time=10.3 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=17 ttl=255 time=7.93 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=18 ttl=255 time=7.66 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=19 ttl=255 time=10.6 ms
+64 bytes from 103.198.200.203 (103.198.200.203): icmp_seq=20 ttl=255 time=6.79 ms
+
+--- www.gov.hk ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19110ms
+rtt min/avg/max/mdev = 6.074/8.028/10.928/1.567 ms
